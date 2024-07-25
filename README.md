@@ -1,6 +1,18 @@
 # Nunam-Technologies-Assignment
 Battery Life Analysis
 
+<br />
+
+### **TABLE OF CONTENTS**
+
+| Files/Folder | Description |
+| -----------  | ----------- |
+| Zip Files       | This folder contains Excel data files and a Jupyter notebook file containing the code for this assignment         |
+
+
+
+<br />
+
 Steps involved:
 - Importing Data:  Using Python Pandas, required Data is imported by Battery Cell-id which includes Charging, Voltage, and temperature data.
 - Calculated Battery State of Health for Cells 5308 and 5329
